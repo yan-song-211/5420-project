@@ -4,6 +4,9 @@ This repo is for my course project of DASC 5420. It contains a file of R code, a
 TThe goal of this project is to evaluate the effectiveness of five widely-used and advanced classification models on an imbalanced bank marketing dataset.
 
 -`R` R file for the project
--`Data' Data needed for analysis
+
+-`Data` Data needed for analysis
+
 -`Report` Final report
+
 
